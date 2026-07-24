@@ -1,0 +1,9 @@
+numpy
+scipy
+scikit-image
+scikit-learn
+matplotlib
+tqdm
+torch
+torchvision
+pytorch-msssim
