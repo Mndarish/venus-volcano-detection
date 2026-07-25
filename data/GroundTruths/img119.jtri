@@ -1,0 +1,6 @@
+# M.C. Burl
+# Missing Data and some bad data.
+# /data/mgn-sar/images/f30n123/ff41.sdt
+# Thu Nov 14 15:36:15 1996
+# shape x, y, [x dimension, y dimension], [angle]
+ CIRCLE(918,893,5.39) #0 -1 $4 #85

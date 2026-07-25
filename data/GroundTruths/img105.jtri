@@ -1,0 +1,7 @@
+# M.C. Burl
+# /data/mgn-sar/images/f30n123/ff27.sdt
+# Thu Nov 14 15:06:59 1996
+# shape x, y, [x dimension, y dimension], [angle]
+ CIRCLE(243,299,5.83) #0 -1 $4 #105
+ CIRCLE(548,720,5.83) #0 -1 $4 #24
+ CIRCLE(296,653,15.65) #2 -1 $2 #24

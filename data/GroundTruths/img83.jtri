@@ -1,0 +1,11 @@
+# M.C. Burl
+# Missing Data Strip
+# /data/mgn-sar/images/f30n123/ff05.sdt
+# Thu Nov 14 14:04:15 1996
+# shape x, y, [x dimension, y dimension], [angle]
+ CIRCLE(7,109,7.07) #0 -1 $4 #189
+ CIRCLE(69,398,7.07) #0 -1 $4 #9
+ CIRCLE(958,338,4.47) #0 -1 $4 #40
+ CIRCLE(956,407,6.08) #0 -1 $4 #26
+ CIRCLE(663,536,6.08) #0 -1 $4 #11
+ CIRCLE(18,43,4.24) #0 -1 $4 #38

@@ -1,0 +1,7 @@
+# M.C. Burl
+# Not sure about the two features I labeled.
+# /data/mgn-sar/images/f30n123/ff30.sdt
+# Thu Nov 14 15:13:04 1996
+# shape x, y, [x dimension, y dimension], [angle]
+ CIRCLE(110,448,11.18) #0 -1 $4 #349
+ CIRCLE(110,420,14.14) #0 -1 $4 #25
