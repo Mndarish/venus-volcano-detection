@@ -1,0 +1,11 @@
+% Number_of_columns = 4
+% Column 1: Experiment
+% Column 2: Number of subexperiments
+% Column 3: Total Image Area
+% Column 4: Number of Detection Opportunities
+%--------------------------------------------
+A 4 22232 161
+B 6 185309 444
+C 1 301151 220
+D 4 198860 659
+E 5 27790 129
