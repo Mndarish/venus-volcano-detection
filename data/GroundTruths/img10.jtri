@@ -1,0 +1,18 @@
+# This area has small volanoes primarily defined as radar dark circular spots covering the regional tectonic fractures.
+# /proj/mgn-sar/f30n332_images/ff39.sdt
+# Mon Feb 20 16:41:27 1995
+# shape x, y, [x dimension, y dimension], [angle]
+ CIRCLE(427,212,25.81) #2 -1 $2 #30
+ CIRCLE(169,395,24.21) #2 -1 $2 #52
+ CIRCLE(589,735,26.57) #2 -1 $2 #40
+ CIRCLE(885,967,26.57) #2 -1 $2 #23
+ CIRCLE(813,592,23.60) #1 -1 $3 #15
+ CIRCLE(957,410,28.18) #1 -1 $3 #14
+ CIRCLE(731,302,28.18) #1 -1 $3 #6
+ CIRCLE(501,560,28.18) #1 -1 $3 #7
+ CIRCLE(545,456,3.00) #0 -1 $4 #38
+ CIRCLE(414,803,3.00) #0 -1 $4 #42
+ CIRCLE(693,884,3.00) #0 -1 $4 #5
+ CIRCLE(198,510,30.00) #1 -1 $3 #19
+ CIRCLE(424,392,20.59) #1 -1 $3 #13
+ CIRCLE(178,240,24.08) #1 -1 $3 #18

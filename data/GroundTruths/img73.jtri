@@ -1,0 +1,14 @@
+# Region has abundant fractures.  Only a few volcanoes.  One irregularly shaped volcano has an unusually large summit pit.
+# /data/mgn-sar/FMIDR_cycle1_images/f15n283-ff49.sdt
+# Wed Feb 16 11:58:13 1994
+# shape x, y, [x dimension, y dimension], [angle]
+ CIRCLE(416,694,23.85) #1 -1 $2 #22
+ CIRCLE(41,652,37.16) #1 -1 $3 #14
+ CIRCLE(159,813,17.80) #1 -1 $2 #27
+ CIRCLE(98,986,39.05) #1 -1 $1 #26
+ CIRCLE(421,990,25.24) #1 -1 $1 #10
+ CIRCLE(260,692,8.94) #1 -1 $3 #16
+ CIRCLE(43,908,4.24) #1 -1 $4 #9
+ CIRCLE(617,872,21.95) #1 -1 $1 #27
+ CIRCLE(608,894,5.00) #1 -1 $4 #15
+ CIRCLE(903,941,4.47) #1 -1 $4 #37

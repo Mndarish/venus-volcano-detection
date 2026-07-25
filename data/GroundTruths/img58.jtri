@@ -1,0 +1,35 @@
+# Mottled plains makes identification of volcanoes difficult - bright/dark pair criteria is weak.  There a probably a few more volcanoes here than we have been able to detect with confidence.
+# /data/mgn-sar/FMIDR_cycle1_images/f00n279-ff37.sdt
+# Wed Feb 16 10:02:56 1994
+# shape x, y, [x dimension, y dimension], [angle]
+ CIRCLE(152,306,25.50) #1 -1 $2 #56
+ CIRCLE(93,362,28.23) #1 -1 $2 #24
+ CIRCLE(400,260,18.44) #1 -1 $1 #22
+ CIRCLE(355,337,32.89) #1 -1 $3 #16
+ CIRCLE(383,105,7.21) #1 -1 $4 #51
+ CIRCLE(319,396,1.00) #1 -1 $4 #14
+ CIRCLE(319,391,2.00) #1 -1 $4 #14
+ CIRCLE(745,405,2.83) #1 -1 $4 #24
+ CIRCLE(864,61,7.07) #1 -1 $4 #41
+ CIRCLE(947,229,5.00) #1 -1 $4 #12
+ CIRCLE(969,226,5.00) #1 -1 $4 #10
+ CIRCLE(889,408,7.21) #1 -1 $4 #8
+ CIRCLE(909,63,7.07) #1 -1 $4 #14
+ CIRCLE(648,708,15.26) #1 -1 $1 #26
+ CIRCLE(596,683,22.47) #1 -1 $1 #10
+ CIRCLE(1000,572,35.00) #1 -1 $2 #11
+ CIRCLE(678,731,19.21) #1 -1 $3 #75
+ CIRCLE(829,574,34.44) #1 -1 $3 #17
+ CIRCLE(785,690,4.47) #1 -1 $4 #16
+ CIRCLE(780,697,3.16) #1 -1 $4 #11
+ CIRCLE(746,619,3.61) #1 -1 $4 #7
+ CIRCLE(707,573,5.83) #1 -1 $4 #10
+ CIRCLE(510,753,14.76) #1 -1 $2 #20
+ CIRCLE(193,537,14.76) #1 -1 $1 #32
+ CIRCLE(460,607,28.02) #1 -1 $1 #12
+ CIRCLE(329,604,34.93) #1 -1 $3 #56
+ CIRCLE(693,945,6.40) #1 -1 $4 #54
+ CIRCLE(715,968,7.81) #1 -1 $4 #9
+ CIRCLE(604,747,5.39) #1 -1 $4 #15
+ CIRCLE(679,834,4.12) #1 -1 $4 #7
+ CIRCLE(874,894,23.26) #1 -1 $3 #38

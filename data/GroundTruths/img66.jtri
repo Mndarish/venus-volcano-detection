@@ -1,0 +1,28 @@
+# Speckle in radar image makes identification difficult.  There are probably a few more that we can just barely see but they have a lower degree of certainty than the "possible" category  (they are sub-possible).
+# /data/mgn-sar/FMIDR_cycle1_images/f25s302-ff30.sdt
+# Wed Feb 16 15:55:50 1994
+# shape x, y, [x dimension, y dimension], [angle]
+ CIRCLE(969,961,23.60) #2 -1 $2 #15
+ CIRCLE(900,977,23.60) #2 -1 $2 #6
+ CIRCLE(988,732,18.38) #0 -1 $1 #10
+ CIRCLE(548,659,19.42) #2 -1 $2 #26
+ CIRCLE(559,699,8.60) #2 -1 $2 #11
+ CIRCLE(694,461,14.21) #1 -1 $3 #16
+ CIRCLE(625,414,24.84) #1 -1 $3 #14
+ CIRCLE(107,316,32.65) #1 -1 $3 #60
+ CIRCLE(84,396,29.07) #1 -1 $3 #8
+ CIRCLE(99,88,29.07) #1 -1 $3 #5
+ CIRCLE(43,28,37.64) #1 -1 $3 #14
+ CIRCLE(37,370,20.81) #2 -1 $2 #21
+ CIRCLE(220,269,12.04) #0 -1 $4 #12
+ CIRCLE(163,419,12.04) #0 -1 $4 #7
+ CIRCLE(327,555,30.61) #1 -1 $3 #28
+ CIRCLE(416,697,30.61) #1 -1 $3 #8
+ CIRCLE(220,787,17.89) #1 -1 $3 #30
+ CIRCLE(330,966,20.25) #1 -1 $3 #12
+ CIRCLE(270,934,26.40) #1 -1 $3 #7
+ CIRCLE(65,1004,22.36) #2 -1 $2 #13
+ CIRCLE(31,1003,10.82) #2 -1 $2 #19
+ CIRCLE(431,886,28.79) #1 -1 $3 #45
+ CIRCLE(492,837,20.62) #1 -1 $3 #7
+ CIRCLE(610,910,19.10) #1 -1 $3 #8

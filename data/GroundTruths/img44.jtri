@@ -1,0 +1,10 @@
+# Volcanoes have been circled at the apparent topographic break of base of slope rather than associated bright flow material that surrounds many of them.
+# /data/mgn-sar/FMIDR_cycle1_images/f05s312-ff33.sdt
+# Thu Feb 17 09:42:03 1994
+# shape x, y, [x dimension, y dimension], [angle]
+ CIRCLE(284,109,22.20) #0 -1 $1 #26
+ CIRCLE(552,143,55.11) #2 -1 $2 #55
+ CIRCLE(112,912,22.20) #0 -1 $1 #28
+ CIRCLE(269,891,24.04) #0 -1 $1 #27
+ CIRCLE(387,913,24.04) #2 -1 $2 #7
+ CIRCLE(247,957,30.61) #2 -1 $2 #8

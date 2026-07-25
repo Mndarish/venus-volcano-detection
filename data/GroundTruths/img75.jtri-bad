@@ -1,0 +1,11 @@
+# /data/mgn-sar/images/new_5/f05s290-ff43.sdt
+# Wed Feb 22 11:28:43 1995
+# shape x, y, [x dimension, y dimension], [angle]
+ CIRCLE(803,648,25.61) #4 -1 $1 #424
+ CIRCLE(982,981,22.80) #4 -1 $2 #1130
+ CIRCLE(888,893,16.55) #4 -1 $2 #77
+ CIRCLE(199,233,3.16) #4 -1 $4 #54
+ CIRCLE(345,608,12.37) #4 -1 $4 #46
+ CIRCLE(919,38,3.16) #4 -1 $4 #22
+ CIRCLE(732,226,6.32) #4 -1 $4 #13
+ CIRCLE(678,352,6.32) #4 -1 $4 #33

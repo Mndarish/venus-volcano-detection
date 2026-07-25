@@ -1,0 +1,7 @@
+# Featureless plains in most of image.  Only 2 or 3 possibles (defined by radar bright circles) along the far right margin of the image.
+# /data/mgn-sar/FMIDR_cycle1_images/f10n267-ff01.sdt
+# Wed Feb 16 16:56:39 1994
+# shape x, y, [x dimension, y dimension], [angle]
+ CIRCLE(897,262,57.45) #1 -1 $3 #9
+ CIRCLE(970,140,24.08) #1 -1 $3 #16
+ CIRCLE(894,652,17.49) #1 -1 $3 #21

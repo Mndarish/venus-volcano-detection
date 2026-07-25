@@ -1,0 +1,6 @@
+# Only 2 possible volcanoes.  Area of small-scale ridges and mottled plains makes identification difficult since circular patterns can be formed by the ridge curvature.
+# /data/mgn-sar/FMIDR_cycle1_images/f10n076-ff23.sdt
+# Wed Feb 16 14:27:03 1994
+# shape x, y, [x dimension, y dimension], [angle]
+ CIRCLE(648,42,12.81) #1 -1 $3 #67
+ CIRCLE(202,461,13.45) #1 -1 $3 #72

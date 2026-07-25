@@ -1,0 +1,9 @@
+# /proj/mgn-sar/f30n332_images/ff46.sdt
+# Mon Feb 20 17:05:47 1995
+# shape x, y, [x dimension, y dimension], [angle]
+ CIRCLE(882,374,2.83) #0 -1 $4 #43
+ CIRCLE(435,191,2.83) #0 -1 $4 #5
+ CIRCLE(470,110,2.83) #0 -1 $4 #5
+ CIRCLE(274,86,5.39) #0 -1 $4 #13
+ CIRCLE(186,273,5.39) #0 -1 $4 #6
+ CIRCLE(183,592,5.39) #0 -1 $4 #12

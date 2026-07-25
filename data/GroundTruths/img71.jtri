@@ -1,0 +1,6 @@
+# Only 2 volcanoes here and one is a "possible" (defined by circular radar bright patch) and the other is unusual in that it has a very large summit pit and steep striated flanks. 
+# /data/mgn-sar/FMIDR_cycle1_images/f15n283-ff27.sdt
+# Thu Feb 17 10:28:27 1994
+# shape x, y, [x dimension, y dimension], [angle]
+ CIRCLE(116,201,87.66) #0 -1 $1 #47
+ CIRCLE(55,728,80.28) #1 -1 $3 #45

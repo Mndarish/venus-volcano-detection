@@ -1,0 +1,24 @@
+# Volcanoes occur here in an area of ridge belts and graben.  A few volcanoes identified on the basis of radar bright or radar dark circles only but most have bright/dark pairs.
+# /data/mgn-sar/FMIDR_cycle1_images/f25n284-ff37.sdt
+# Wed Feb 16 10:41:27 1994
+# shape x, y, [x dimension, y dimension], [angle]
+ CIRCLE(367,120,19.42) #1 -1 $3 #11
+ CIRCLE(248,421,43.01) #1 -1 $3 #16
+ CIRCLE(200,172,2.83) #1 -1 $4 #16
+ CIRCLE(419,348,12.04) #1 -1 $3 #39
+ CIRCLE(587,325,30.41) #1 -1 $1 #21
+ CIRCLE(658,271,20.22) #1 -1 $1 #15
+ CIRCLE(614,171,26.93) #1 -1 $3 #23
+ CIRCLE(533,58,31.11) #1 -1 $3 #25
+ CIRCLE(560,477,11.18) #1 -1 $2 #21
+ CIRCLE(692,271,17.80) #1 -1 $3 #23
+ CIRCLE(779,61,22.02) #1 -1 $2 #21
+ CIRCLE(813,422,22.02) #1 -1 $2 #13
+ CIRCLE(959,600,25.50) #1 -1 $2 #31
+ CIRCLE(847,571,25.50) #1 -1 $2 #9
+ CIRCLE(894,621,3.16) #1 -1 $4 #13
+ CIRCLE(933,639,2.83) #1 -1 $4 #6
+ CIRCLE(941,643,4.00) #1 -1 $4 #8
+ CIRCLE(950,648,3.61) #1 -1 $4 #8
+ CIRCLE(252,663,38.59) #1 -1 $3 #51
+ CIRCLE(1008,789,20.10) #1 -1 $2 #46

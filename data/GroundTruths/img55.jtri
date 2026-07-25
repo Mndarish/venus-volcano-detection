@@ -1,0 +1,17 @@
+# Area of linear parallel fractures with a few small volcanoes identified on the basis of bright/dark pairs.
+# /data/mgn-sar/FMIDR_cycle1_images/f40n286-ff39.sdt
+# Thu Feb 17 10:36:47 1994
+# shape x, y, [x dimension, y dimension], [angle]
+ CIRCLE(18,135,21.59) #0 -1 $1 #19
+ CIRCLE(59,207,22.36) #2 -1 $2 #7
+ CIRCLE(535,181,32.65) #1 -1 $3 #10
+ CIRCLE(146,370,16.16) #2 -1 $2 #7
+ CIRCLE(833,396,21.21) #1 -1 $3 #15
+ CIRCLE(647,947,21.21) #2 -1 $2 #27
+ CIRCLE(880,736,5.00) #0 -1 $4 #18
+ CIRCLE(551,862,3.16) #0 -1 $4 #8
+ CIRCLE(542,849,2.24) #0 -1 $4 #6
+ CIRCLE(991,675,4.12) #0 -1 $4 #9
+ CIRCLE(751,937,3.61) #0 -1 $4 #10
+ CIRCLE(279,675,22.20) #2 -1 $2 #26
+ CIRCLE(373,992,27.59) #0 -1 $1 #7

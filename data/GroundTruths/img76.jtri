@@ -1,0 +1,31 @@
+# volcanoes defined primarily by bright/dark pairs - most have pits.  Some of the larger volcanoes appear to be flat-topped or odd morphology more similar to intermediate "pancake" domes.
+# /data/mgn-sar/FMIDR_cycle1_images/f20s257-ff54.sdt
+# Thu Feb 17 10:13:29 1994
+# shape x, y, [x dimension, y dimension], [angle]
+ CIRCLE(257,364,18.79) #0 -1 $1 #9
+ CIRCLE(548,424,31.40) #0 -1 $1 #9
+ CIRCLE(510,272,11.66) #0 -1 $4 #19
+ CIRCLE(442,253,11.70) #0 -1 $4 #13
+ CIRCLE(643,398,25.61) #0 -1 $1 #26
+ CIRCLE(724,206,56.40) #2 -1 $2 #18
+ CIRCLE(801,113,8.60) #0 -1 $4 #18
+ CIRCLE(812,194,13.93) #0 -1 $4 #10
+ CIRCLE(671,152,5.66) #0 -1 $4 #44
+ CIRCLE(738,65,5.00) #0 -1 $4 #7
+ CIRCLE(940,239,6.40) #0 -1 $4 #8
+ CIRCLE(753,465,19.70) #0 -1 $1 #27
+ CIRCLE(868,387,15.62) #0 -1 $1 #8
+ CIRCLE(906,464,34.71) #0 -1 $1 #9
+ CIRCLE(877,521,22.80) #0 -1 $1 #10
+ CIRCLE(800,602,22.80) #0 -1 $1 #7
+ CIRCLE(530,615,17.00) #0 -1 $1 #9
+ CIRCLE(899,635,16.55) #2 -1 $2 #8
+ CIRCLE(989,572,22.67) #0 -1 $1 #9
+ CIRCLE(999,548,17.89) #2 -1 $2 #8
+ CIRCLE(936,527,13.93) #0 -1 $4 #14
+ CIRCLE(806,509,5.39) #0 -1 $4 #10
+ CIRCLE(611,754,30.68) #0 -1 $1 #91
+ CIRCLE(555,835,24.04) #1 -1 $3 #23
+ CIRCLE(926,676,5.00) #0 -1 $4 #16
+ CIRCLE(765,984,3.61) #0 -1 $4 #10
+ CIRCLE(774,983,3.61) #0 -1 $4 #7

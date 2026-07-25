@@ -1,0 +1,14 @@
+# Featureless plains with only a few volcanoes.  High latitude makes volcanoes visible as topographic features with strong bright/dark pairs.
+# /data/mgn-sar/FMIDR_cycle1_images/f75n237-ff50.sdt
+# Wed Feb 16 17:11:15 1994
+# shape x, y, [x dimension, y dimension], [angle]
+ CIRCLE(61,70,22.83) #1 -1 $3 #10
+ CIRCLE(101,220,22.83) #2 -1 $2 #5
+ CIRCLE(132,174,20.59) #2 -1 $2 #8
+ CIRCLE(123,143,10.63) #2 -1 $2 #6
+ CIRCLE(95,273,10.63) #1 -1 $3 #7
+ CIRCLE(512,132,19.85) #2 -1 $2 #13
+ CIRCLE(577,748,24.19) #2 -1 $2 #26
+ CIRCLE(79,561,17.03) #1 -1 $3 #18
+ CIRCLE(102,441,22.36) #1 -1 $3 #9
+ CIRCLE(242,453,19.10) #1 -1 $3 #7

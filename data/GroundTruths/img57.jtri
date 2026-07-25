@@ -1,0 +1,28 @@
+# Uniformly dark plains.  Small volcanoes defined on the basis of moderate bright/dark pairs and occassionally absence of regional structural pattern.
+# /data/mgn-sar/FMIDR_cycle1_images/f60n302-ff37.sdt
+# Wed Feb 16 11:50:22 1994
+# shape x, y, [x dimension, y dimension], [angle]
+ CIRCLE(79,180,49.24) #1 -1 $1 #10
+ CIRCLE(165,352,21.95) #1 -1 $1 #8
+ CIRCLE(293,428,18.44) #1 -1 $2 #12
+ CIRCLE(175,466,31.06) #1 -1 $2 #28
+ CIRCLE(70,102,4.00) #1 -1 $4 #34
+ CIRCLE(471,169,36.89) #1 -1 $2 #24
+ CIRCLE(430,451,36.89) #1 -1 $3 #7
+ CIRCLE(609,168,25.94) #1 -1 $3 #31
+ CIRCLE(790,570,4.47) #1 -1 $4 #27
+ CIRCLE(582,439,2.24) #1 -1 $4 #20
+ CIRCLE(323,594,35.90) #1 -1 $2 #14
+ CIRCLE(218,571,30.53) #1 -1 $2 #50
+ CIRCLE(183,562,27.20) #1 -1 $2 #11
+ CIRCLE(87,629,27.20) #1 -1 $3 #13
+ CIRCLE(23,712,32.25) #1 -1 $2 #25
+ CIRCLE(101,699,2.00) #1 -1 $4 #12
+ CIRCLE(259,749,24.76) #1 -1 $2 #18
+ CIRCLE(189,891,32.02) #1 -1 $2 #14
+ CIRCLE(189,829,4.47) #1 -1 $4 #6
+ CIRCLE(23,996,22.02) #1 -1 $2 #17
+ CIRCLE(384,559,2.24) #1 -1 $4 #29
+ CIRCLE(359,502,38.90) #1 -1 $3 #48
+ CIRCLE(887,717,23.85) #1 -1 $3 #8
+ CIRCLE(948,820,23.85) #1 -1 $3 #8

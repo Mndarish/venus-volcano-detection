@@ -1,0 +1,16 @@
+# Small volcanoes defined only by low-contrast bright/dark pairs.  They are visible in this region because they are surrounded by plains material of low dn values.
+# /data/mgn-sar/FMIDR_cycle1_images/f15n020-ff53.sdt
+# Thu Feb 17 09:49:38 1994
+# shape x, y, [x dimension, y dimension], [angle]
+ CIRCLE(42,511,28.84) #2 -1 $2 #11
+ CIRCLE(86,612,34.00) #1 -1 $3 #66
+ CIRCLE(251,678,34.00) #1 -1 $3 #4
+ CIRCLE(311,740,29.68) #1 -1 $3 #9
+ CIRCLE(436,806,28.43) #1 -1 $3 #8
+ CIRCLE(137,774,39.66) #1 -1 $3 #8
+ CIRCLE(221,929,25.50) #1 -1 $3 #26
+ CIRCLE(10,801,22.02) #1 -1 $3 #6
+ CIRCLE(202,746,22.02) #1 -1 $3 #7
+ CIRCLE(87,791,14.14) #1 -1 $3 #13
+ CIRCLE(131,826,11.31) #1 -1 $3 #55
+ CIRCLE(21,732,11.31) #1 -1 $3 #20

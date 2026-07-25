@@ -1,0 +1,31 @@
+# Streaked plains area (streaks are probably from aeolian surface modification and appear to be covering the small volcanoes).  The volcanoes therefore show a small variation in dn brightness range from bright to dark paired slopes.  The image resolution also appears to be worse than average with a salt and pepper look to the image.
+# /data/mgn-sar/FMIDR_cycle1_images/f25s198-ff54.sdt
+# Wed Feb 16 14:43:46 1994
+# shape x, y, [x dimension, y dimension], [angle]
+ CIRCLE(117,253,22.36) #0 -1 $1 #21
+ CIRCLE(388,124,27.46) #2 -1 $2 #33
+ CIRCLE(118,219,15.65) #1 -1 $3 #30
+ CIRCLE(492,345,15.65) #1 -1 $3 #12
+ CIRCLE(566,320,30.81) #2 -1 $2 #10
+ CIRCLE(554,245,28.84) #1 -1 $3 #33
+ CIRCLE(509,185,3.61) #0 -1 $4 #19
+ CIRCLE(596,410,16.64) #1 -1 $3 #9
+ CIRCLE(617,378,18.87) #1 -1 $3 #9
+ CIRCLE(755,296,19.72) #1 -1 $3 #30
+ CIRCLE(824,216,27.31) #2 -1 $2 #15
+ CIRCLE(922,333,20.62) #2 -1 $2 #16
+ CIRCLE(882,35,26.02) #1 -1 $3 #40
+ CIRCLE(699,158,4.47) #0 -1 $4 #9
+ CIRCLE(550,59,1.41) #0 -1 $4 #7
+ CIRCLE(545,55,2.00) #0 -1 $4 #11
+ CIRCLE(931,158,2.24) #0 -1 $4 #24
+ CIRCLE(912,222,2.24) #0 -1 $4 #6
+ CIRCLE(401,603,18.60) #1 -1 $3 #71
+ CIRCLE(281,582,18.60) #1 -1 $3 #5
+ CIRCLE(350,604,12.81) #1 -1 $3 #13
+ CIRCLE(489,693,18.44) #1 -1 $3 #10
+ CIRCLE(357,658,4.12) #0 -1 $4 #64
+ CIRCLE(315,660,2.83) #0 -1 $4 #8
+ CIRCLE(111,634,3.61) #0 -1 $4 #9
+ CIRCLE(440,736,9.49) #1 -1 $3 #39
+ CIRCLE(406,798,16.55) #1 -1 $3 #13

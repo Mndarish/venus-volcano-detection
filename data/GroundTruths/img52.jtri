@@ -1,0 +1,7 @@
+# Fractured plains area and alternating orbit speckling make image difficult - but only three volcanoes identified in area.
+# /data/mgn-sar/FMIDR_cycle1_images/f50s088-ff36.sdt
+# Wed Feb 16 17:06:47 1994
+# shape x, y, [x dimension, y dimension], [angle]
+ CIRCLE(278,62,40.50) #0 -1 $1 #14
+ CIRCLE(199,192,35.78) #1 -1 $3 #12
+ CIRCLE(232,991,22.83) #1 -1 $3 #29

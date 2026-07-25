@@ -1,0 +1,7 @@
+# Uniformly dark fractured plains.  A few pits, one "possible" volcano.
+# /data/mgn-sar/FMIDR_cycle1_images/f40n272-ff34.sdt
+# Thu Feb 17 10:31:32 1994
+# shape x, y, [x dimension, y dimension], [angle]
+ CIRCLE(81,673,16.64) #1 -1 $3 #7
+ CIRCLE(857,709,4.12) #0 -1 $4 #11
+ CIRCLE(737,250,3.16) #0 -1 $4 #17
